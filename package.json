@@ -1,5 +1,5 @@
 {
-  "name": "js-modules-wtf-es6-bb",
+  "name": "js-modules-wtf-bundle-bb",
   "version": "0.0.1",
   "private": true,
   "main": "build/bundle.min.js",
